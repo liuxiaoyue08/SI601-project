@@ -1,0 +1,11 @@
+country	genre	number	average rating
+UK	Documentary	135	7.29407407407
+Japan	Animation	179	7.09508379888
+USA	History	231	7.0874025974
+UK	Biography	111	7.04162162162
+Japan	Drama	201	6.9815920398
+USA	War	217	6.96211981567
+USA	Documentary	680	6.94752941176
+USA	Biography	346	6.93384393064
+USA	Music	448	6.93241071429
+Japan	Adventure	104	6.90884615385
